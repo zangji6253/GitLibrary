@@ -16,3 +16,5 @@ git svn fetch
 	branches = branches/*:refs/remotes/origin/*
 	tags = tags/*:refs/remotes/origin/tags/*
 ```
+
+git svn dcommit
