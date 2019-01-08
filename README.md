@@ -7,6 +7,8 @@ git svn rebase
 
 git svn fetch
 
+.git/config
+
 ```
 [svn-remote "svn"]
 	url = svn://192.168.1.223
